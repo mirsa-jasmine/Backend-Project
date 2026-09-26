@@ -311,4 +311,7 @@ Git and GitHub
 
 The next project will build on this REST API foundation by introducing database persistence with MySQL, Spring Data JPA, and Hibernate.
 
+## Author
+
+Mirsa Jasmine K P
 
