@@ -145,9 +145,7 @@ For example, requesting a student that does not exist results in:
 
 The API uses separate DTOs for incoming requests and outgoing responses.
 ```text
-Request
-                │
-                ▼
+            
         ┌──────────────┐
         │ StudentRequest│
         └──────┬───────┘
