@@ -144,7 +144,7 @@ For example, requesting a student that does not exist results in:
 🔄 DTO Architecture
 
 The API uses separate DTOs for incoming requests and outgoing responses.
-
+```text
 Request
                 │
                 ▼
@@ -176,7 +176,7 @@ This separates the API's request/response models from the internal student model
 
 
 ---
-
+```
 🧪 Automated Testing
 
 The project includes automated API tests using MockMvc.
