@@ -64,7 +64,7 @@ Student-Management-REST-API/
 ├── pom.xml
 └── README.md
 
-```text
+```
 ---
 
 🔌 REST API
